@@ -3,6 +3,10 @@
 #' @param output_dir Character. Output directory.
 #' @param motifs Either a character vector of full paths to .meme motifs files, or a list of universalmotif objects.
 #' @param sequences Either a character vector of full paths to .fa DNA sequence files, of a list of Biostring DNAStringSet / DNAString objects.
+#' @param skip_input skip input
+#' @param skip_mapping skip mapping
+#' @param skip_enrich skip enrich
+#' @param skip_heatmap skip heat map
 #'
 #' @return None.
 

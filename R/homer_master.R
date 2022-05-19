@@ -45,11 +45,11 @@ homer_master <- function(
 #   cutree_height = 0.55
 # )
 #
-homer_master(
-  motifs = universalmotif::read_homer("/Users/TedCCLeung/Documents/Projects/Packages/all.8.motif"),
-  dir = "/Users/TedCCLeung/Documents/Projects/Photoperiod/2_analysis/2_pipeline/PhotoperiodMotif/homer_10/",
-  pval_threshold = 5e-4,
-  FC_threshold = 1.0,
-  cutree_height = 0.55,
-  known_only = FALSE
-)
+# homer_master(
+#   motifs = universalmotif::read_homer("/Users/TedCCLeung/Documents/Projects/Packages/all.8.motif"),
+#   dir = "/Users/TedCCLeung/Documents/Projects/Photoperiod/2_analysis/2_pipeline/PhotoperiodMotif/homer_10/",
+#   pval_threshold = 5e-4,
+#   FC_threshold = 1.0,
+#   cutree_height = 0.55,
+#   known_only = FALSE
+# )

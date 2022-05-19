@@ -11,6 +11,7 @@
 #' @param panel_gap Gap of the panel in ggplot::grid::unit().
 #' @param panel_width Width of the panel in ggplot::grid::unit().
 #' @param panel_link_width Link width of the panel in ggplot::grid::unit().
+#' @param remove_zoom whether to remove zoom box
 #'
 #' @return ComplexHeatmap object
 #'

@@ -5,6 +5,7 @@
 #' @param cutree_out cutree object.
 #' @param motifs Universalmotifs object.
 #' @param style Character. One of "FC", "PVAL" and "FDR".
+#' @param remove_zoom whether to remove zoom box
 #'
 #' @return ComplexHeatmap object
 #'

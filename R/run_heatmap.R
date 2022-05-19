@@ -5,6 +5,7 @@
 #' @param motif_MEME_file Character. Full path to a motif .meme file.
 #' @param enrich_pval_threshold Numerical. Default 1e-2. P value threshold to decide for an enriched motif.
 #' @param cutree_height Numerical. Similarity value to cut the dendrogram for merging motifs.
+#' @param remove_zoom whether to remove zoom box
 #'
 #' @return None.
 

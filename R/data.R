@@ -1,7 +1,4 @@
-#' Motif set formed from de novo motif analysis with WEEDER, HOMER and STREME.
-#'
-#' @format MEME format
-"denovo_motifset1"
+
 
 #' Motif set from the JASPAR Plants database.
 #'
@@ -26,10 +23,10 @@
 #' }
 "rDEI_summary"
 
-#' Grange object from Arabidopsis_thaliana.TAIR10.47.gtf
-#'
-#' @source \url{https://plants.ensembl.org/Arabidopsis_thaliana/Info/Index}
-"TAIR10_Grange"
+# Grange object from Arabidopsis_thaliana.TAIR10.47.gtf
+#
+# @source \url{https://plants.ensembl.org/Arabidopsis_thaliana/Info/Index}
+#"TAIR10_Grange"
 
 
 #' Motif set from the CIS-BP database.
