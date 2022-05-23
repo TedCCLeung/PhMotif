@@ -17,6 +17,7 @@ run_mapping <- function(
   ## STEP 0: SET UP DIRECTORY -----------------------------
   if (!dir.exists(dir)){dir.create(dir, recursive = TRUE)}
 
+
   ## STEP 1: SET UP FUNCTION FOR INDIVIDUAL MAPPINGS -----------------------------
   motifs <- universalmotif::read_meme(motif_MEME_file)
 
